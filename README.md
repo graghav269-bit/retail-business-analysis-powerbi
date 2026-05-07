@@ -41,19 +41,19 @@ The workflow included data cleaning and transformation using Power Query followe
 
 ### **Main Dashboard**
 
-![Dashboard](Images/dashboard_overview.png)
+![Dashboard](Images/dashboard_overview.png.png)
 
 ### **Profitability Analysis**
 
-![Profitability](Images/profitability_analysis.png)
+![Profitability](Images/profitability_analysis.png.png)
 
 ### **Regional Profit Analysis**
 
-![Regional](Images/regional_profit_analysis.png)
+![Regional](Images/regional_profit_analysis.png.png)
 
 ### Sales Distribution
 
-![Sales](Images/sales_distribution.png)
+![Sales](Images/sales_distribution.png.png)
 
 ## **Sample Pandas Workflow**
 
